@@ -1,4 +1,5 @@
-# INFO 6250 - Web Development Tools and Methods: Shopify E-Commerce Web Application (Final-Project)
+# INFO 6250 - Web Development Tools and Methods
+# Final Project: Shopify E-Commerce Web Application
 
 ![Ecommerce web page-rafiki](https://user-images.githubusercontent.com/46862684/198903767-192287bd-11e7-4123-a670-7a6100682f00.png)
 
